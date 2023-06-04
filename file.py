@@ -1,0 +1,7 @@
+f = open('file.txt','w')
+print('Enter valid details to connect to the database')
+user = input('User: ')
+passwd = input('Password: ')
+f.write(user+'\n')
+f.write(passwd)
+f.close()
