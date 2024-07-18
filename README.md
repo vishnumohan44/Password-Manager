@@ -12,7 +12,7 @@ You can do the following operations on this program:
 7. Display all Vaults
 8. Delete Vault
 
-This is a wide platform where you can create any number of password vaults and differentiate all your passwords effectively.
+This wide platform allows you to create any number of password vaults and differentiate all your passwords effectively.
 ```
 EXAMPLE: You can create two different Vaults namely 'Office' and 'Personal'. You can store all your Office password 
 in 'Office-Vault' and all your personal passwords in 'Personal-Vault'.
